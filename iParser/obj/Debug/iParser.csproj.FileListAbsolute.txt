@@ -1,0 +1,15 @@
+D:\Project\iParser\iParser\bin\Debug\iParser.exe.config
+D:\Project\iParser\iParser\bin\Debug\iParser.exe
+D:\Project\iParser\iParser\bin\Debug\iParser.pdb
+D:\Project\iParser\iParser\obj\Debug\iParser.Form1.resources
+D:\Project\iParser\iParser\obj\Debug\iParser.Properties.Resources.resources
+D:\Project\iParser\iParser\obj\Debug\iParser.csproj.GenerateResource.cache
+D:\Project\iParser\iParser\obj\Debug\iParser.csproj.CoreCompileInputs.cache
+D:\Project\iParser\iParser\obj\Debug\iParser.exe
+D:\Project\iParser\iParser\obj\Debug\iParser.pdb
+D:\Project\iParser\iParser\bin\Debug\Newtonsoft.Json.dll
+D:\Project\iParser\iParser\bin\Debug\Newtonsoft.Json.pdb
+D:\Project\iParser\iParser\bin\Debug\Newtonsoft.Json.xml
+D:\Project\iParser\iParser\obj\Debug\iParser.csproj.CopyComplete
+D:\Project\iParser\iParser\obj\Debug\iParser.csprojAssemblyReference.cache
+D:\Project\iParser\iParser\obj\Debug\iParser.Forms.MakeProject.resources
